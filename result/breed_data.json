@@ -1,0 +1,52 @@
+{
+    "Golden Retriever": {
+        "Description": "The Golden Retriever is a large-sized breed of dog. Their fur coat varies from light Golden, Golden, Dark Golden to Cream. Their age span is about 10-12 years and they are one of the most widely adopted dog breeds.",
+        "Hearts": "14",
+        "Thumbs Up": "27"
+    },
+    "Greater Swiss Mountain Dog": {
+        "Description": "The Greater Swiss Mountain Dog is a dog breed which was developed in the Swiss Alps. they are extremely devoted, protective, good-natured, alert, self-confident and fearless!",
+        "Hearts": "7",
+        "Thumbs Up": "21"
+    },
+    "St. Bernard": {
+        "Description": "The St. Bernard or St Bernard is a breed of very large working dog from Swiss Alps and north Italy and Switzerland, originally bred for rescue. They have the cutest sad eyes which make you want to go give them a hug and never let go!",
+        "Hearts": "7",
+        "Thumbs Up": "14"
+    },
+    "Dachshund": {
+        "Description": "The dachshund is a short-legged, long-bodied, hound-type dog breed. The standard size dachshund was developed to scent, chase, and flush out badgers and other burrow-dwelling animals.",
+        "Hearts": "3",
+        "Thumbs Up": "12"
+    },
+    "Beagle": {
+        "Description": "The average life span of beagles is 12 \u2013 15 years. Their temperament is gentle, excitable, amiable. They are also determined as well as intelligent!",
+        "Hearts": "8",
+        "Thumbs Up": "11"
+    },
+    "Pomeranian": {
+        "Description": "Pomeranian are named after the region in Central Europe. Even as adults they are only about 20 cm long! Playful, Friendly, Extroverted, Active, Intelligent, Sociable, they are plain adorable!",
+        "Hearts": "8",
+        "Thumbs Up": "9"
+    },
+    "Siberian Husky": {
+        "Description": "The Siberian Husky is a medium size, dense-coat working dog breed that originated in north-eastern Siberia.",
+        "Hearts": "8",
+        "Thumbs Up": "5"
+    },
+    "Bearded Collie": {
+        "Description": "The Bearded Collie, or Beardie, is a herding breed of dog once used primarily by Scottish shepherds, but now mostly a popular family companion.",
+        "Hearts": "6",
+        "Thumbs Up": "5"
+    },
+    "Pomeranian Husky": {
+        "Description": "A cross between the Pomeranian and Husky, the Pomsky is a small breed of dog with a fluffy coat, plush tail and pointed ears. Bonus? They are super cuddly!",
+        "Hearts": "9",
+        "Thumbs Up": "5"
+    },
+    "Yorkshire Terrier": {
+        "Description": "The Yorkshire Terrier is a small dog breed of terrier type, developed during the 19th century in Yorkshire, England, to catch rats in clothing mills. They live upto 13 \u2013 16 years and grow upto 17 cm.",
+        "Hearts": "9",
+        "Thumbs Up": "4"
+    }
+}
